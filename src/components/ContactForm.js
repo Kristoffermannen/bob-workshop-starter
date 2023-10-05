@@ -108,7 +108,7 @@ function ContactForm() {
         <Alert
           onClose={() => setSnackbarMessage("")}
           severity={snackbarType}
-          sx={{ width: "100%" }}
+          sx={{ width: "50%" }}
         >
           {snackbarMessage}
         </Alert>
