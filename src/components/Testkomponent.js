@@ -10,7 +10,7 @@ import {
   Stack,
 } from "@mui/material";
 
-function Hallaiskomponenten() {
+function Testkomponent() {
   const [formData, setFormData] = useState({
     email: "",
     message: "ta deg en bolle",
@@ -117,4 +117,4 @@ function Hallaiskomponenten() {
   );
 }
 
-export default Hallaiskomponenten;
+export default Testkomponent;
