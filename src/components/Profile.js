@@ -16,7 +16,7 @@ function Profile() {
         src="/brus.jpg"
         alt="Blomst"
         sx={{
-          width: 150,
+          width: 1000,
           height: 150,
           margin: "auto",
           border: "4px solid #3f51b5",
