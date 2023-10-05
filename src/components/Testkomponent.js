@@ -13,7 +13,7 @@ import {
 function Testkomponent() {
   const [formData, setFormData] = useState({
     email: "",
-    message: "ta deg en bolle",
+    message: "ta deg en liten bolle",
   });
   const [snackbarMessage, setSnackbarMessage] = useState("");
   const [snackbarType, setSnackbarType] = useState("success");
