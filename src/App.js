@@ -11,7 +11,6 @@ export default function App() {
       <Description />
       <ContactForm />
       <Hallaiskomponenten/>
-      <footer/> 
     </Stack>
   );
 }
