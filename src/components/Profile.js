@@ -13,7 +13,7 @@ function Profile() {
       spacing={2}
     >
       <Avatar
-        src="/bilde-av-blomst.jpeg"
+        src="/brus.jpg"
         alt="Blomst"
         sx={{
           width: 150,

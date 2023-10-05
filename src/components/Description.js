@@ -8,7 +8,7 @@ function Description() {
         Om Meg
       </Typography>
       <Typography>
-        Heisann
+        Heisann jmjmj
       </Typography>
     </Box>
   );
