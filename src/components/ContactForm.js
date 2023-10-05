@@ -13,7 +13,7 @@ import {
 function ContactForm() {
   const [formData, setFormData] = useState({
     email: "",
-    message: "",
+    message: "ta deg en bolle",
   });
   const [snackbarMessage, setSnackbarMessage] = useState("");
   const [snackbarType, setSnackbarType] = useState("success");
