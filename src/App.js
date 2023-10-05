@@ -10,7 +10,7 @@ export default function App() {
       <Profile />
       <Description />
       <ContactForm />
-      <Hallaiskomponenten/>
+      <Testkomponent/>
     </Stack>
   );
 }
